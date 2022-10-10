@@ -1,2 +1,2 @@
-# pyielis-db
-A bridge between Python and H2 database
+# pyelis-db
+A bridge between Python and H2 database.
